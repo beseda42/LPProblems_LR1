@@ -1,0 +1,1 @@
+[TL] current best clique size=17 vertices=[22 26 55 58 77 110 114 127 132 138 190 241 257 297 332 346 362]
